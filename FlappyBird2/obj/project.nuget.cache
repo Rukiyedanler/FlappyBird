@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8AcUdieB3BDyULYBBCDMgXQJQtJaq7qO/dSeKANRoIo/vCY9GgCj1gm2k9myYavnEpxpWjoPrFHWCgXFfUgfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mgokd\\OneDrive\\Masaüstü\\Yazılım\\c#\\FlappyBird2\\FlappyBird2\\FlappyBird2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgokd\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\mgokd\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\mgokd\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
